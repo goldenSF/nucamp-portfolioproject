@@ -1,0 +1,33 @@
+.jumbotron {
+  margin-bottom: 0;
+}
+
+#collec {
+  background-color: bisque;
+}
+
+#hed {
+  background-color: #454545;
+  color: aliceblue;
+}
+
+.im1 {
+  width: 100%;
+}
+
+.fa-shopping-basket {
+  font-size: 40px;
+}
+
+#czech-btn {
+  background-color: rgb(110, 58, 58);
+}
+
+.czech-btn {
+  margin-left: 100px;
+}
+
+footer {
+  background-color: #454545;
+  color: aliceblue;
+}
