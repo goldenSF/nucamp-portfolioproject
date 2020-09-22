@@ -15,22 +15,17 @@
   width: 100%;
 }
 
-.fa-shopping-basket {
-  font-size: 40px;
-}
-
-#czech-btn {
-  background-color: rgb(110, 58, 58);
-}
-
-.czech-btn {
-  margin-left: 100px;
-}
-
 footer {
   background-color: #454545;
   color: white;
+  padding: 20px 0;
 }
-{
-  color: white;
+
+a:active {
+  text-align: center;
+}
+
+a #headerA{
+position: center;
+left: 0px;
 }
