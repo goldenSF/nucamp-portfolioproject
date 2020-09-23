@@ -11,7 +11,9 @@ body {
   h5 {
       color: white;
   }
-  
+
+// Kaung's
+
 .site-footer {
     //background-image: linear-gradient(to right,#24136e, #1430cf, #030433, white);
     //background-image: linear-gradient(to right, #c0bfcc, rgb(26, 24, 24));
@@ -21,7 +23,18 @@ body {
     
   }
 
-h1, h2, h3 {
+
+#containerT {
+  img {
+    width: 150px;
+    height: 100px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 3px solid gray;
+  }  
+}
+
+h2 {
     font-family: "Lobster", cursive;
     text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc, 
                  0 3px 0 #ccc, 0 4px 0 #ccc, 
@@ -36,11 +49,14 @@ h1, h2, h3 {
     background-color: rgb(75, 69, 69);
 }
 
+.site-footer {
+  background-image: linear-gradient(to right,#24136e, #1430cf, #030433, white);
+  padding: 20px 0;
+
+//Sultan's 
+
 .jumbotron {
-    margin: 0;
-    padding: 30px;
-    background-image: linear-gradient(to right, #24136e, #1430cf, #030433);
-    color: white;
+    margin-bottom: 0;
   }
 
 #collec {
