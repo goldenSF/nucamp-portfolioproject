@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: "Open Sans", sans-serif;
   }
@@ -58,30 +59,36 @@ h2 {
 .jumbotron {
     margin-bottom: 0;
   }
+=======
+.jumbotron {
+  margin-bottom: 0;
+}
+>>>>>>> c4c967918062279ace1db4d4657049c97ed012e1
 
 #collec {
-    background-color: bisque;
+  background-color: bisque;
 }
 
 #hed {
-    background-color: #454545;
-    color: aliceblue;
+  background-color: #454545;
+  color: aliceblue;
 }
 
 .im1 {
-    width: 100%;
+  width: 100%;
 }
 
-.fa-shopping-basket {
-    font-size: 40px;
+footer {
+  background-color: #454545;
+  color: white;
+  padding: 20px 0;
 }
 
-#czech-btn {
-    background-color: rgb(110, 58, 58);
+a:active {
+  text-align: center;
 }
 
-.czech-btn {
-    margin-left: 100px;
+a #headerA{
+position: center;
+left: 0px;
 }
-
-  
