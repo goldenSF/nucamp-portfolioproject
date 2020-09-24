@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+/* Helena's */
+
 body {
     font-family: "Open Sans", sans-serif;
   }
@@ -13,11 +14,9 @@ body {
       color: white;
   }
 
-// Kaung's
+/* Kaung's */
 
 .site-footer {
-    //background-image: linear-gradient(to right,#24136e, #1430cf, #030433, white);
-    //background-image: linear-gradient(to right, #c0bfcc, rgb(26, 24, 24));
     background-color: #454545;
     color: white;
     padding: 20px 0;
@@ -25,45 +24,40 @@ body {
   }
 
 
-#containerT {
+#thumb {
   img {
     width: 150px;
     height: 100px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    border: 3px solid gray;
+    border: 2px solid gray;
   }  
 }
 
-h2 {
-    font-family: "Lobster", cursive;
-    text-shadow: 0 1px 0 #ccc, 0 2px 0 #ccc, 
-                 0 3px 0 #ccc, 0 4px 0 #ccc, 
-                 0 5px 0 #ccc, 0 6px 0 #ccc, 
-                 0 7px 0 #ccc, 0 8px 0 #ccc, 
-                 0 9px 0 #ccc, 0 10px 0 #ccc, 
-                 0 11px 0 #ccc, 0 12px 0 #ccc, 
-                 0 20px 30px rgba(0, 0, 0, 0.5); 
-}
+
+  h2 {
+      font-family: "lobster", cursive;
+      text-shadow: 0 1px 0 #bbbb, 0 2px 0 #bbbb, 
+                  0 3px 0 #bbbb, 0 4px 0 #bbbb, 
+                  0 5px 0 #bbbb, 0 6px 0 #bbbb, 
+                  0 7px 0 #bbbb, 0 8px 0 #bbbb, 
+                  0 9px 0 #bbbb, 0 10px 0 #bbbb, 
+                  0 11px 0 #bbbb, 0 12px 0 #bbbb, 
+                  0 20px 30px rgba(0, 0, 0, 0.5); 
+  }
+
+
 
 .navbar {
-    background-color: rgb(75, 69, 69);
+    background-color: 1430cf;
 }
 
-.site-footer {
-  background-image: linear-gradient(to right,#24136e, #1430cf, #030433, white);
-  padding: 20px 0;
 
-//Sultan's 
 
-.jumbotron {
-    margin-bottom: 0;
-  }
+/*Sultan's */
 
 .jumbotron {
   margin-bottom: 0;
 }
->>>>>>> c4c967918062279ace1db4d4657049c97ed012e1
+
 
 #collec {
   background-color: bisque;
