@@ -23,7 +23,6 @@ body {
     
   }
 
-
 #thumb {
   img {
     width: 150px;
@@ -31,7 +30,6 @@ body {
     border: 2px solid gray;
   }  
 }
-
 
   h2 {
       font-family: "lobster", cursive;
@@ -44,12 +42,9 @@ body {
                   0 20px 30px rgba(0, 0, 0, 0.5); 
   }
 
-
-
 .navbar {
     background-color: 1430cf;
 }
-
 
 
 /*Sultan's */
