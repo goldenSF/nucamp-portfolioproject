@@ -1,95 +1,105 @@
-/* Helena's */
-
-body {
-    font-family: "Open Sans", sans-serif;
-  }
-  
-  h1,
-  h2,
-  h3 {
-    font-family: "Open Sans", cursive;
-  }
-
-  h5 {
-      color: white;
-  }
-
-/* Kaung's */
-
-.site-footer {
-    background-color: #454545;
-    color: white;
-    padding: 20px 0;
-    
-  }
-
-#thumb {
-  img {
-    width: 150px;
-    height: 100px;
-    border: 2px solid gray;
-  }  
-}
-
-  h2 {
-      font-family: "lobster", cursive;
-      text-shadow: 0 1px 0 #bbbb, 0 2px 0 #bbbb, 
-                  0 3px 0 #bbbb, 0 4px 0 #bbbb, 
-                  0 5px 0 #bbbb, 0 6px 0 #bbbb, 
-                  0 7px 0 #bbbb, 0 8px 0 #bbbb, 
-                  0 9px 0 #bbbb, 0 10px 0 #bbbb, 
-                  0 11px 0 #bbbb, 0 12px 0 #bbbb, 
-                  0 20px 30px rgba(0, 0, 0, 0.5); 
-  }
-
-.navbar {
-    background-color: 1430cf;
-}
-
-
-/*Sultan's */
-
-.jumbotron {
-  margin-bottom: 0;
-}
-
-
-#collec {
-  background-color: bisque;
-}
-
-#hed {
-  background-color: #454545;
-  color: aliceblue;
-}
-
 .im1 {
   width: 100%;
 }
 
 footer {
-  background-color: #454545;
-  color: white;
+  background-image: linear-gradient(#454545, #c9af98, #2e2e2a);
   padding: 20px 0;
+  color: #a39274;
 }
 
 a:active {
   text-align: center;
 }
 
-#headerA{
-position: center;
-left: 0px;
+#headerA {
+  background-color: #cac0ae;
+  margin-bottom: 30px;
 }
+
 .carousel-caption {
-  background-color: rgba(0, 0, 0, 0.5); }
+  background-color: #cac0ae;
+}
 
 .carousel {
-  border: solid 5px #454545; 
+  border: solid 5px #cac0ae;
 }
 
 #carouselButton {
   position: absolute;
   right: 0;
   bottom: 0;
-  z-index: 100; }
+  z-index: 100;
+  background-color: #bdb59f;
+}
+
+#hed {
+  margin: 0;
+  padding: 30px;
+  background-image: linear-gradient(to bottom, #454948, #c9af98, #30302c);
+  color: #e7e2d8;
+}
+
+body {
+  font-family: "Roboto", sans-ser;
+  color: #a39274;
+}
+
+.navbar {
+  background-image: linear-gradient(to right, #3b342e, #8d7563, #6e5640);
+  color: #beb090;
+  font-family: "EB Garamond";
+}
+
+.discover {
+  background-image: linear-gradient(to right, #c7c2ae, #c9af98, #2e2e2a);
+  color: #6e6657;
+  padding: 25px;
+}
+
+#acc {
+  background-image: linear-gradient(to right, #c6c9c8, #c9af98, #2e2e2a);
+  color: #61553e;
+
+  padding: 30px;
+  margin: 0;
+}
+
+#about {
+  margin-top: 25px;
+}
+
+.mid {
+  margin-top: 20px;
+}
+
+.about {
+  background-image: linear-gradient(to right, #ccc09f, #2e2e2a, #c9af98);
+  color: #928668;
+}
+
+.list-unstyled li a {
+  color: #d8d4ca;
+}
+
+.contact a {
+  color: #d8d4ca;
+}
+
+.nav-link {
+  color: #91846a;
+}
+
+.nav-link:hover {
+  color: #6e6657;
+}
+#loginButton {
+  color: #2e2e2a;
+}
+.card {
+  border: solid 5px #cac0ae;
+}
+#hed h1,
+h3 {
+  margin-top: 15px;
+}
